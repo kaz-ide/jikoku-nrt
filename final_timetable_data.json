@@ -1,0 +1,3857 @@
+{
+  "weekday": [
+    {
+      "dep_time": "05:03",
+      "arr_time": "06:15",
+      "t2_arr_time": "06:13",
+      "total_min": 72,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 1
+    },
+    {
+      "dep_time": "05:03",
+      "arr_time": "06:39",
+      "t2_arr_time": "06:36",
+      "total_min": 96,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 2
+    },
+    {
+      "dep_time": "05:22",
+      "arr_time": "07:03",
+      "t2_arr_time": "07:00",
+      "total_min": 101,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 3
+    },
+    {
+      "dep_time": "05:44",
+      "arr_time": "07:11",
+      "t2_arr_time": "07:09",
+      "total_min": 87,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 4
+    },
+    {
+      "dep_time": "05:44",
+      "arr_time": "07:22",
+      "t2_arr_time": "07:19",
+      "total_min": 98,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 5
+    },
+    {
+      "dep_time": "05:54",
+      "arr_time": "07:34",
+      "t2_arr_time": "07:31",
+      "total_min": 100,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "東中山",
+      "connect_train": "快速",
+      "transfer_desc": "東中山で 快速(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "東中山",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 6
+    },
+    {
+      "dep_time": "06:07",
+      "arr_time": "07:34",
+      "t2_arr_time": "07:31",
+      "total_min": 87,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 7
+    },
+    {
+      "dep_time": "06:28",
+      "arr_time": "07:39",
+      "t2_arr_time": "07:37",
+      "total_min": 71,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 8
+    },
+    {
+      "dep_time": "06:47",
+      "arr_time": "07:58",
+      "t2_arr_time": "07:56",
+      "total_min": 71,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 9
+    },
+    {
+      "dep_time": "06:47",
+      "arr_time": "08:02",
+      "t2_arr_time": "07:59",
+      "total_min": 75,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 10
+    },
+    {
+      "dep_time": "06:51",
+      "arr_time": "08:23",
+      "t2_arr_time": "08:20",
+      "total_min": 92,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速",
+      "transfer_desc": "京成高砂で 快速(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 11
+    },
+    {
+      "dep_time": "07:17",
+      "arr_time": "08:32",
+      "t2_arr_time": "08:30",
+      "total_min": 75,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 12
+    },
+    {
+      "dep_time": "07:25",
+      "arr_time": "08:47",
+      "t2_arr_time": "08:44",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 13
+    },
+    {
+      "dep_time": "07:49",
+      "arr_time": "08:59",
+      "t2_arr_time": "08:57",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 14
+    },
+    {
+      "dep_time": "07:49",
+      "arr_time": "09:12",
+      "t2_arr_time": "09:09",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 15
+    },
+    {
+      "dep_time": "08:03",
+      "arr_time": "09:32",
+      "t2_arr_time": "09:29",
+      "total_min": 89,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 16
+    },
+    {
+      "dep_time": "08:11",
+      "arr_time": "09:32",
+      "t2_arr_time": "09:29",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 17
+    },
+    {
+      "dep_time": "08:33",
+      "arr_time": "09:40",
+      "t2_arr_time": "09:38",
+      "total_min": 67,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 18
+    },
+    {
+      "dep_time": "08:33",
+      "arr_time": "09:52",
+      "t2_arr_time": "09:49",
+      "total_min": 79,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 19
+    },
+    {
+      "dep_time": "08:45",
+      "arr_time": "10:14",
+      "t2_arr_time": "10:11",
+      "total_min": 89,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 20
+    },
+    {
+      "dep_time": "08:53",
+      "arr_time": "10:14",
+      "t2_arr_time": "10:11",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 21
+    },
+    {
+      "dep_time": "09:14",
+      "arr_time": "10:32",
+      "t2_arr_time": "10:30",
+      "total_min": 78,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 22
+    },
+    {
+      "dep_time": "09:14",
+      "arr_time": "10:38",
+      "t2_arr_time": "10:35",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 23
+    },
+    {
+      "dep_time": "09:33",
+      "arr_time": "10:47",
+      "t2_arr_time": "10:45",
+      "total_min": 74,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 24
+    },
+    {
+      "dep_time": "09:33",
+      "arr_time": "10:52",
+      "t2_arr_time": "10:49",
+      "total_min": 79,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 25
+    },
+    {
+      "dep_time": "09:53",
+      "arr_time": "11:12",
+      "t2_arr_time": "11:09",
+      "total_min": 79,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 26
+    },
+    {
+      "dep_time": "10:13",
+      "arr_time": "11:19",
+      "t2_arr_time": "11:17",
+      "total_min": 66,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 27
+    },
+    {
+      "dep_time": "10:13",
+      "arr_time": "11:30",
+      "t2_arr_time": "11:27",
+      "total_min": 77,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 28
+    },
+    {
+      "dep_time": "10:27",
+      "arr_time": "11:48",
+      "t2_arr_time": "11:45",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 29
+    },
+    {
+      "dep_time": "10:38",
+      "arr_time": "12:08",
+      "t2_arr_time": "12:05",
+      "total_min": 90,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 30
+    },
+    {
+      "dep_time": "10:52",
+      "arr_time": "12:08",
+      "t2_arr_time": "12:05",
+      "total_min": 76,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 31
+    },
+    {
+      "dep_time": "10:56",
+      "arr_time": "12:29",
+      "t2_arr_time": "12:26",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速",
+      "transfer_desc": "京成高砂で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成佐倉行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 32
+    },
+    {
+      "dep_time": "11:10",
+      "arr_time": "12:48",
+      "t2_arr_time": "12:45",
+      "total_min": 98,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 33
+    },
+    {
+      "dep_time": "11:28",
+      "arr_time": "12:48",
+      "t2_arr_time": "12:45",
+      "total_min": 80,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 34
+    },
+    {
+      "dep_time": "11:30",
+      "arr_time": "12:52",
+      "t2_arr_time": "12:50",
+      "total_min": 82,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 35
+    },
+    {
+      "dep_time": "12:06",
+      "arr_time": "13:28",
+      "t2_arr_time": "13:25",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 36
+    },
+    {
+      "dep_time": "12:09",
+      "arr_time": "13:33",
+      "t2_arr_time": "13:31",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 37
+    },
+    {
+      "dep_time": "12:46",
+      "arr_time": "14:08",
+      "t2_arr_time": "14:05",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 38
+    },
+    {
+      "dep_time": "12:49",
+      "arr_time": "14:13",
+      "t2_arr_time": "14:11",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 39
+    },
+    {
+      "dep_time": "13:25",
+      "arr_time": "14:49",
+      "t2_arr_time": "14:46",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 40
+    },
+    {
+      "dep_time": "13:28",
+      "arr_time": "14:53",
+      "t2_arr_time": "14:51",
+      "total_min": 85,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 41
+    },
+    {
+      "dep_time": "14:05",
+      "arr_time": "15:27",
+      "t2_arr_time": "15:24",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 42
+    },
+    {
+      "dep_time": "14:08",
+      "arr_time": "15:33",
+      "t2_arr_time": "15:31",
+      "total_min": 85,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 43
+    },
+    {
+      "dep_time": "14:16",
+      "arr_time": "15:53",
+      "t2_arr_time": "15:50",
+      "total_min": 97,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "千住大橋",
+      "connect_train": "快速",
+      "transfer_desc": "千住大橋で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "千住大橋",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 44
+    },
+    {
+      "dep_time": "14:23",
+      "arr_time": "15:53",
+      "t2_arr_time": "15:50",
+      "total_min": 90,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 45
+    },
+    {
+      "dep_time": "14:46",
+      "arr_time": "16:12",
+      "t2_arr_time": "16:09",
+      "total_min": 86,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 46
+    },
+    {
+      "dep_time": "14:49",
+      "arr_time": "15:58",
+      "t2_arr_time": "15:56",
+      "total_min": 69,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 47
+    },
+    {
+      "dep_time": "14:56",
+      "arr_time": "16:24",
+      "t2_arr_time": "16:21",
+      "total_min": 88,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 48
+    },
+    {
+      "dep_time": "15:05",
+      "arr_time": "16:24",
+      "t2_arr_time": "16:21",
+      "total_min": 79,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 49
+    },
+    {
+      "dep_time": "15:25",
+      "arr_time": "16:52",
+      "t2_arr_time": "16:49",
+      "total_min": 87,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 50
+    },
+    {
+      "dep_time": "15:28",
+      "arr_time": "16:38",
+      "t2_arr_time": "16:36",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 51
+    },
+    {
+      "dep_time": "15:40",
+      "arr_time": "17:12",
+      "t2_arr_time": "17:09",
+      "total_min": 92,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 千葉中央行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 52
+    },
+    {
+      "dep_time": "15:54",
+      "arr_time": "17:12",
+      "t2_arr_time": "17:09",
+      "total_min": 78,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 53
+    },
+    {
+      "dep_time": "16:13",
+      "arr_time": "17:34",
+      "t2_arr_time": "17:31",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 54
+    },
+    {
+      "dep_time": "16:17",
+      "arr_time": "17:38",
+      "t2_arr_time": "17:36",
+      "total_min": 81,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 55
+    },
+    {
+      "dep_time": "16:27",
+      "arr_time": "17:51",
+      "t2_arr_time": "17:48",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 56
+    },
+    {
+      "dep_time": "16:33",
+      "arr_time": "17:51",
+      "t2_arr_time": "17:48",
+      "total_min": 78,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 57
+    },
+    {
+      "dep_time": "16:54",
+      "arr_time": "18:14",
+      "t2_arr_time": "18:11",
+      "total_min": 80,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 芝山千代田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 58
+    },
+    {
+      "dep_time": "17:12",
+      "arr_time": "18:19",
+      "t2_arr_time": "18:17",
+      "total_min": 67,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 59
+    },
+    {
+      "dep_time": "17:12",
+      "arr_time": "18:38",
+      "t2_arr_time": "18:35",
+      "total_min": 86,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成佐倉で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 芝山千代田行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 60
+    },
+    {
+      "dep_time": "17:24",
+      "arr_time": "18:54",
+      "t2_arr_time": "18:51",
+      "total_min": 90,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成成田行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 61
+    },
+    {
+      "dep_time": "17:44",
+      "arr_time": "18:58",
+      "t2_arr_time": "18:56",
+      "total_min": 74,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成成田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 62
+    },
+    {
+      "dep_time": "17:54",
+      "arr_time": "19:18",
+      "t2_arr_time": "19:15",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 63
+    },
+    {
+      "dep_time": "18:26",
+      "arr_time": "19:24",
+      "t2_arr_time": "19:22",
+      "total_min": 58,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "青砥",
+      "connect_train": "快速特急",
+      "transfer_desc": "青砥で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線快速特急 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 当駅始発 成田空港行"
+      ],
+      "no": 64
+    },
+    {
+      "dep_time": "18:26",
+      "arr_time": "19:40",
+      "t2_arr_time": "19:37",
+      "total_min": 74,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "青砥",
+      "connect_train": "快速特急",
+      "transfer_desc": "青砥で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 65
+    },
+    {
+      "dep_time": "18:32",
+      "arr_time": "20:00",
+      "t2_arr_time": "19:58",
+      "total_min": 88,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 宗吾参道行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 66
+    },
+    {
+      "dep_time": "18:51",
+      "arr_time": "20:00",
+      "t2_arr_time": "19:58",
+      "total_min": 69,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "アクセス特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線アクセス特急 当駅始発 成田空港行"
+      ],
+      "no": 67
+    },
+    {
+      "dep_time": "19:06",
+      "arr_time": "20:22",
+      "t2_arr_time": "20:19",
+      "total_min": 76,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 68
+    },
+    {
+      "dep_time": "19:12",
+      "arr_time": "20:25",
+      "t2_arr_time": "20:23",
+      "total_min": 73,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成成田スカイアクセス線アクセス特急 当駅始発 成田空港行"
+      ],
+      "no": 69
+    },
+    {
+      "dep_time": "19:17",
+      "arr_time": "20:44",
+      "t2_arr_time": "20:41",
+      "total_min": 87,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成佐倉行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 70
+    },
+    {
+      "dep_time": "19:30",
+      "arr_time": "20:58",
+      "t2_arr_time": "20:56",
+      "total_min": 88,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成佐倉行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 71
+    },
+    {
+      "dep_time": "19:35",
+      "arr_time": "21:09",
+      "t2_arr_time": "21:06",
+      "total_min": 94,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成本線快速特急 芝山千代田行",
+        "京成本線 成田空港行"
+      ],
+      "no": 72
+    },
+    {
+      "dep_time": "19:47",
+      "arr_time": "20:58",
+      "t2_arr_time": "20:56",
+      "total_min": 71,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "アクセス特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線アクセス特急 当駅始発 成田空港行"
+      ],
+      "no": 73
+    },
+    {
+      "dep_time": "19:51",
+      "arr_time": "21:24",
+      "t2_arr_time": "21:21",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "青砥",
+      "connect_train": "特急",
+      "transfer_desc": "青砥で 特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 74
+    },
+    {
+      "dep_time": "20:09",
+      "arr_time": "21:38",
+      "t2_arr_time": "21:35",
+      "total_min": 89,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 75
+    },
+    {
+      "dep_time": "20:26",
+      "arr_time": "22:04",
+      "t2_arr_time": "22:01",
+      "total_min": 98,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "東中山",
+      "connect_train": "連絡列車",
+      "transfer_desc": "東中山で 連絡列車(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "東中山",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成佐倉行",
+        "京成本線 成田空港行"
+      ],
+      "no": 76
+    },
+    {
+      "dep_time": "20:36",
+      "arr_time": "21:46",
+      "t2_arr_time": "21:44",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 77
+    },
+    {
+      "dep_time": "20:46",
+      "arr_time": "21:46",
+      "t2_arr_time": "21:44",
+      "total_min": 60,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "アクセス特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線アクセス特急 当駅始発 成田空港行"
+      ],
+      "no": 78
+    },
+    {
+      "dep_time": "20:51",
+      "arr_time": "22:24",
+      "t2_arr_time": "22:21",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "青砥",
+      "connect_train": "特急",
+      "transfer_desc": "青砥で 特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 79
+    },
+    {
+      "dep_time": "21:05",
+      "arr_time": "22:38",
+      "t2_arr_time": "22:35",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "京成津田沼",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 宗吾参道行",
+        "京成本線特急 京成成田行",
+        "京成本線 成田空港行"
+      ],
+      "no": 80
+    },
+    {
+      "dep_time": "21:33",
+      "arr_time": "23:04",
+      "t2_arr_time": "23:01",
+      "total_min": 91,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成佐倉行",
+        "京成本線通勤特急 成田空港行"
+      ],
+      "no": 81
+    },
+    {
+      "dep_time": "21:47",
+      "arr_time": "22:54",
+      "t2_arr_time": "22:52",
+      "total_min": 67,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 82
+    },
+    {
+      "dep_time": "22:14",
+      "arr_time": "23:38",
+      "t2_arr_time": "23:35",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成本線通勤特急 成田空港行"
+      ],
+      "no": 83
+    },
+    {
+      "dep_time": "22:24",
+      "arr_time": "23:57",
+      "t2_arr_time": "23:54",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成小岩",
+      "connect_train": "快速",
+      "transfer_desc": "京成小岩で 快速(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成小岩",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 千葉中央行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 84
+    }
+  ],
+  "weekend": [
+    {
+      "dep_time": "05:03",
+      "arr_time": "06:17",
+      "t2_arr_time": "06:15",
+      "total_min": 74,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 1
+    },
+    {
+      "dep_time": "05:03",
+      "arr_time": "06:38",
+      "t2_arr_time": "06:35",
+      "total_min": 95,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 2
+    },
+    {
+      "dep_time": "05:23",
+      "arr_time": "07:02",
+      "t2_arr_time": "06:59",
+      "total_min": 99,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 3
+    },
+    {
+      "dep_time": "05:44",
+      "arr_time": "06:55",
+      "t2_arr_time": "06:53",
+      "total_min": 71,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成成田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 4
+    },
+    {
+      "dep_time": "05:44",
+      "arr_time": "07:29",
+      "t2_arr_time": "07:26",
+      "total_min": 105,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "宗吾参道",
+      "connect_train": "連絡列車",
+      "transfer_desc": "宗吾参道で 連絡列車(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "宗吾参道",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成成田行",
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 5
+    },
+    {
+      "dep_time": "06:08",
+      "arr_time": "07:41",
+      "t2_arr_time": "07:38",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 6
+    },
+    {
+      "dep_time": "06:24",
+      "arr_time": "07:36",
+      "t2_arr_time": "07:34",
+      "total_min": 72,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 7
+    },
+    {
+      "dep_time": "06:33",
+      "arr_time": "08:08",
+      "t2_arr_time": "08:05",
+      "total_min": 95,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 芝山千代田行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 8
+    },
+    {
+      "dep_time": "06:47",
+      "arr_time": "08:08",
+      "t2_arr_time": "08:05",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 9
+    },
+    {
+      "dep_time": "06:57",
+      "arr_time": "08:11",
+      "t2_arr_time": "08:09",
+      "total_min": 74,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成成田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 10
+    },
+    {
+      "dep_time": "07:08",
+      "arr_time": "08:28",
+      "t2_arr_time": "08:25",
+      "total_min": 80,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 11
+    },
+    {
+      "dep_time": "07:27",
+      "arr_time": "08:34",
+      "t2_arr_time": "08:32",
+      "total_min": 67,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 12
+    },
+    {
+      "dep_time": "07:27",
+      "arr_time": "08:49",
+      "t2_arr_time": "08:46",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 13
+    },
+    {
+      "dep_time": "07:49",
+      "arr_time": "08:59",
+      "t2_arr_time": "08:57",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 14
+    },
+    {
+      "dep_time": "07:49",
+      "arr_time": "09:14",
+      "t2_arr_time": "09:11",
+      "total_min": 85,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 15
+    },
+    {
+      "dep_time": "08:11",
+      "arr_time": "09:33",
+      "t2_arr_time": "09:31",
+      "total_min": 82,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 16
+    },
+    {
+      "dep_time": "08:11",
+      "arr_time": "09:36",
+      "t2_arr_time": "09:33",
+      "total_min": 85,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 17
+    },
+    {
+      "dep_time": "08:24",
+      "arr_time": "09:55",
+      "t2_arr_time": "09:52",
+      "total_min": 91,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 18
+    },
+    {
+      "dep_time": "08:34",
+      "arr_time": "09:55",
+      "t2_arr_time": "09:52",
+      "total_min": 81,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 19
+    },
+    {
+      "dep_time": "08:44",
+      "arr_time": "10:09",
+      "t2_arr_time": "10:06",
+      "total_min": 85,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "特急",
+      "transfer_desc": "京成高砂で 特急(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成高砂行",
+        "京成本線特急 成田空港行"
+      ],
+      "no": 20
+    },
+    {
+      "dep_time": "08:52",
+      "arr_time": "10:09",
+      "t2_arr_time": "10:06",
+      "total_min": 77,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 成田空港行"
+      ],
+      "no": 21
+    },
+    {
+      "dep_time": "09:26",
+      "arr_time": "10:49",
+      "t2_arr_time": "10:46",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 22
+    },
+    {
+      "dep_time": "09:30",
+      "arr_time": "11:08",
+      "t2_arr_time": "11:05",
+      "total_min": 98,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速",
+      "transfer_desc": "京成高砂で 快速(成田空港行) に乗換",
+      "time_band": "morning",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 23
+    },
+    {
+      "dep_time": "10:06",
+      "arr_time": "11:28",
+      "t2_arr_time": "11:25",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 24
+    },
+    {
+      "dep_time": "10:09",
+      "arr_time": "11:33",
+      "t2_arr_time": "11:31",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 25
+    },
+    {
+      "dep_time": "10:46",
+      "arr_time": "12:08",
+      "t2_arr_time": "12:05",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 26
+    },
+    {
+      "dep_time": "10:49",
+      "arr_time": "12:13",
+      "t2_arr_time": "12:11",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 27
+    },
+    {
+      "dep_time": "11:25",
+      "arr_time": "12:48",
+      "t2_arr_time": "12:45",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 28
+    },
+    {
+      "dep_time": "11:29",
+      "arr_time": "12:53",
+      "t2_arr_time": "12:51",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 29
+    },
+    {
+      "dep_time": "12:06",
+      "arr_time": "13:28",
+      "t2_arr_time": "13:25",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 30
+    },
+    {
+      "dep_time": "12:09",
+      "arr_time": "13:33",
+      "t2_arr_time": "13:31",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 31
+    },
+    {
+      "dep_time": "12:46",
+      "arr_time": "14:08",
+      "t2_arr_time": "14:05",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 32
+    },
+    {
+      "dep_time": "12:49",
+      "arr_time": "14:13",
+      "t2_arr_time": "14:11",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 33
+    },
+    {
+      "dep_time": "13:25",
+      "arr_time": "14:48",
+      "t2_arr_time": "14:45",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 34
+    },
+    {
+      "dep_time": "13:28",
+      "arr_time": "14:52",
+      "t2_arr_time": "14:50",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 35
+    },
+    {
+      "dep_time": "14:06",
+      "arr_time": "15:28",
+      "t2_arr_time": "15:25",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 36
+    },
+    {
+      "dep_time": "14:09",
+      "arr_time": "15:33",
+      "t2_arr_time": "15:31",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 37
+    },
+    {
+      "dep_time": "14:46",
+      "arr_time": "16:08",
+      "t2_arr_time": "16:05",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 38
+    },
+    {
+      "dep_time": "14:49",
+      "arr_time": "16:13",
+      "t2_arr_time": "16:11",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 39
+    },
+    {
+      "dep_time": "15:25",
+      "arr_time": "16:49",
+      "t2_arr_time": "16:46",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 40
+    },
+    {
+      "dep_time": "15:28",
+      "arr_time": "16:52",
+      "t2_arr_time": "16:50",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "day",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 41
+    },
+    {
+      "dep_time": "16:06",
+      "arr_time": "17:28",
+      "t2_arr_time": "17:25",
+      "total_min": 82,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 42
+    },
+    {
+      "dep_time": "16:09",
+      "arr_time": "17:33",
+      "t2_arr_time": "17:31",
+      "total_min": 84,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成津田沼行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 43
+    },
+    {
+      "dep_time": "16:16",
+      "arr_time": "17:53",
+      "t2_arr_time": "17:50",
+      "total_min": 97,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "千住大橋",
+      "connect_train": "快速",
+      "transfer_desc": "千住大橋で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "千住大橋",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 44
+    },
+    {
+      "dep_time": "16:23",
+      "arr_time": "17:53",
+      "t2_arr_time": "17:50",
+      "total_min": 90,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 45
+    },
+    {
+      "dep_time": "16:46",
+      "arr_time": "18:09",
+      "t2_arr_time": "18:06",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 京成成田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 46
+    },
+    {
+      "dep_time": "16:49",
+      "arr_time": "18:12",
+      "t2_arr_time": "18:10",
+      "total_min": 83,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 千葉中央行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 47
+    },
+    {
+      "dep_time": "17:25",
+      "arr_time": "18:52",
+      "t2_arr_time": "18:49",
+      "total_min": 87,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 芝山千代田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 48
+    },
+    {
+      "dep_time": "17:29",
+      "arr_time": "18:43",
+      "t2_arr_time": "18:41",
+      "total_min": 74,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 49
+    },
+    {
+      "dep_time": "18:09",
+      "arr_time": "19:19",
+      "t2_arr_time": "19:17",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 50
+    },
+    {
+      "dep_time": "18:09",
+      "arr_time": "19:24",
+      "t2_arr_time": "19:21",
+      "total_min": 75,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "青砥",
+      "connect_train": "快速特急",
+      "transfer_desc": "青砥で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 51
+    },
+    {
+      "dep_time": "18:16",
+      "arr_time": "19:39",
+      "t2_arr_time": "19:36",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 52
+    },
+    {
+      "dep_time": "18:26",
+      "arr_time": "19:39",
+      "t2_arr_time": "19:36",
+      "total_min": 73,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 成田空港行"
+      ],
+      "no": 53
+    },
+    {
+      "dep_time": "18:49",
+      "arr_time": "19:59",
+      "t2_arr_time": "19:57",
+      "total_min": 70,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 54
+    },
+    {
+      "dep_time": "18:49",
+      "arr_time": "20:04",
+      "t2_arr_time": "20:01",
+      "total_min": 75,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "青砥",
+      "connect_train": "快速特急",
+      "transfer_desc": "青砥で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "青砥",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 55
+    },
+    {
+      "dep_time": "18:56",
+      "arr_time": "20:19",
+      "t2_arr_time": "20:16",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 京成臼井行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 56
+    },
+    {
+      "dep_time": "19:06",
+      "arr_time": "20:19",
+      "t2_arr_time": "20:16",
+      "total_min": 73,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速特急",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 成田空港行"
+      ],
+      "no": 57
+    },
+    {
+      "dep_time": "19:26",
+      "arr_time": "20:44",
+      "t2_arr_time": "20:41",
+      "total_min": 78,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 58
+    },
+    {
+      "dep_time": "19:30",
+      "arr_time": "20:39",
+      "t2_arr_time": "20:37",
+      "total_min": 69,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 59
+    },
+    {
+      "dep_time": "19:46",
+      "arr_time": "21:09",
+      "t2_arr_time": "21:06",
+      "total_min": 83,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速特急",
+      "transfer_station": "京成佐倉",
+      "connect_train": "快速",
+      "transfer_desc": "京成佐倉で 快速(成田空港行) に乗換",
+      "time_band": "evening",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成佐倉",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速特急 当駅始発 芝山千代田行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 60
+    },
+    {
+      "dep_time": "20:06",
+      "arr_time": "21:24",
+      "t2_arr_time": "21:22",
+      "total_min": 78,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 芝山千代田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 61
+    },
+    {
+      "dep_time": "20:09",
+      "arr_time": "21:35",
+      "t2_arr_time": "21:32",
+      "total_min": 86,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 ちはら台行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 62
+    },
+    {
+      "dep_time": "20:40",
+      "arr_time": "21:45",
+      "t2_arr_time": "21:43",
+      "total_min": 65,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 京成成田行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 63
+    },
+    {
+      "dep_time": "20:40",
+      "arr_time": "22:04",
+      "t2_arr_time": "22:01",
+      "total_min": 84,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成津田沼",
+      "connect_train": "連絡列車",
+      "transfer_desc": "京成津田沼で 連絡列車(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成津田沼",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 京成成田行",
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 64
+    },
+    {
+      "dep_time": "20:45",
+      "arr_time": "22:37",
+      "t2_arr_time": "22:34",
+      "total_min": 112,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 65
+    },
+    {
+      "dep_time": "21:04",
+      "arr_time": "22:24",
+      "t2_arr_time": "22:21",
+      "total_min": 80,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "快速特急",
+      "transfer_desc": "京成高砂で 快速特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 千葉中央行",
+        "京成本線快速特急 成田空港行"
+      ],
+      "no": 66
+    },
+    {
+      "dep_time": "21:12",
+      "arr_time": "23:05",
+      "t2_arr_time": "23:02",
+      "total_min": 113,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 67
+    },
+    {
+      "dep_time": "21:34",
+      "arr_time": "23:05",
+      "t2_arr_time": "23:02",
+      "total_min": 91,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "特急",
+      "transfer_station": "京成津田沼",
+      "connect_train": "連絡列車",
+      "transfer_desc": "京成津田沼で 連絡列車(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "京成津田沼",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線特急 当駅始発 芝山千代田行",
+        "京成本線 成田空港行"
+      ],
+      "no": 68
+    },
+    {
+      "dep_time": "21:42",
+      "arr_time": "22:45",
+      "t2_arr_time": "22:43",
+      "total_min": 63,
+      "via": "スカイアクセス線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "京成高砂",
+      "connect_train": "アクセス特急",
+      "transfer_desc": "京成高砂で アクセス特急(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1272,
+      "fare_ticket": 1280,
+      "stations": [
+        "京成上野",
+        "京成高砂",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 宗吾参道行",
+        "京成成田スカイアクセス線アクセス特急 成田空港行"
+      ],
+      "no": 69
+    },
+    {
+      "dep_time": "21:50",
+      "arr_time": "23:23",
+      "t2_arr_time": "23:20",
+      "total_min": 93,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "普通",
+      "transfer_station": "千住大橋",
+      "connect_train": "快速",
+      "transfer_desc": "千住大橋で 快速(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "千住大橋",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 千葉中央行",
+        "京成本線快速 成田空港行"
+      ],
+      "no": 70
+    },
+    {
+      "dep_time": "21:53",
+      "arr_time": "23:23",
+      "t2_arr_time": "23:20",
+      "total_min": 90,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "快速",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 成田空港行"
+      ],
+      "no": 71
+    },
+    {
+      "dep_time": "22:24",
+      "arr_time": "00:05",
+      "t2_arr_time": "00:02",
+      "total_min": 101,
+      "via": "京成本線経由",
+      "is_direct": true,
+      "train_type": "普通",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "乗り換えなしで終点まで直通",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線 当駅始発 成田空港行"
+      ],
+      "no": 72
+    },
+    {
+      "dep_time": "22:27",
+      "arr_time": "00:05",
+      "t2_arr_time": "00:02",
+      "total_min": 98,
+      "via": "京成本線経由",
+      "is_direct": false,
+      "train_type": "快速",
+      "transfer_station": "千住大橋",
+      "connect_train": "連絡列車",
+      "transfer_desc": "千住大橋で 連絡列車(成田空港行) に乗換",
+      "time_band": "night",
+      "fare_ic": 1057,
+      "fare_ticket": 1060,
+      "stations": [
+        "京成上野",
+        "千住大橋",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成本線快速 当駅始発 京成高砂行",
+        "京成本線 成田空港行"
+      ],
+      "no": 73
+    }
+  ]
+}
