@@ -1,0 +1,1974 @@
+{
+  "weekday": [
+    {
+      "dep_time": "05:40",
+      "arr_time": "06:24",
+      "t2_arr_time": "06:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー1号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー1号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー1号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:00",
+      "arr_time": "06:44",
+      "t2_arr_time": "06:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー3号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー3号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー3号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:20",
+      "arr_time": "07:08",
+      "t2_arr_time": "07:05",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー5号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー5号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー5号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:40",
+      "arr_time": "07:27",
+      "t2_arr_time": "07:23",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー7号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー7号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー7号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:00",
+      "arr_time": "07:49",
+      "t2_arr_time": "07:43",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー9号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー9号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー9号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:20",
+      "arr_time": "08:12",
+      "t2_arr_time": "08:07",
+      "total_min": 52,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー111号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー111号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー111号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:40",
+      "arr_time": "08:27",
+      "t2_arr_time": "08:24",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー13号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー13号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー13号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:00",
+      "arr_time": "08:44",
+      "t2_arr_time": "08:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー15号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー15号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー15号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:17",
+      "arr_time": "09:07",
+      "t2_arr_time": "09:04",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー117号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー117号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー117号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:40",
+      "arr_time": "09:25",
+      "t2_arr_time": "09:21",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー19号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー19号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー19号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:00",
+      "arr_time": "09:44",
+      "t2_arr_time": "09:42",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー21号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー21号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー21号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:17",
+      "arr_time": "10:08",
+      "t2_arr_time": "10:05",
+      "total_min": 51,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー123号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー123号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー123号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:40",
+      "arr_time": "10:23",
+      "t2_arr_time": "10:21",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー25号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー25号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー25号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:00",
+      "arr_time": "10:57",
+      "t2_arr_time": "10:53",
+      "total_min": 57,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー127号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー127号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー127号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:20",
+      "arr_time": "11:03",
+      "t2_arr_time": "11:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー29号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー29号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー29号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:35",
+      "arr_time": "11:23",
+      "t2_arr_time": "11:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー131号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー131号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー131号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:00",
+      "arr_time": "11:43",
+      "t2_arr_time": "11:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー33号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー33号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー33号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:20",
+      "arr_time": "12:03",
+      "t2_arr_time": "12:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー35号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー35号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー35号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:35",
+      "arr_time": "12:24",
+      "t2_arr_time": "12:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー137号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー137号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー137号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:00",
+      "arr_time": "12:43",
+      "t2_arr_time": "12:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー39号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー39号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー39号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:20",
+      "arr_time": "13:03",
+      "t2_arr_time": "13:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー41号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー41号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー41号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:35",
+      "arr_time": "13:24",
+      "t2_arr_time": "13:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー143号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー143号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー143号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:00",
+      "arr_time": "13:43",
+      "t2_arr_time": "13:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー45号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー45号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー45号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:20",
+      "arr_time": "14:03",
+      "t2_arr_time": "14:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー47号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー47号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー47号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:35",
+      "arr_time": "14:23",
+      "t2_arr_time": "14:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー149号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー149号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー149号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:00",
+      "arr_time": "14:43",
+      "t2_arr_time": "14:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー51号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー51号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー51号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:20",
+      "arr_time": "15:03",
+      "t2_arr_time": "15:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー53号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー53号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー53号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:35",
+      "arr_time": "15:23",
+      "t2_arr_time": "15:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー155号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー155号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー155号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:00",
+      "arr_time": "15:45",
+      "t2_arr_time": "15:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー57号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー57号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー57号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:20",
+      "arr_time": "16:03",
+      "t2_arr_time": "16:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー59号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー59号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー59号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:37",
+      "arr_time": "16:27",
+      "t2_arr_time": "16:25",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー161号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー161号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー161号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:00",
+      "arr_time": "16:44",
+      "t2_arr_time": "16:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー63号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー63号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー63号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:20",
+      "arr_time": "17:04",
+      "t2_arr_time": "17:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー65号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー65号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー65号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:40",
+      "arr_time": "17:25",
+      "t2_arr_time": "17:22",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー67号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー67号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー67号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:00",
+      "arr_time": "17:45",
+      "t2_arr_time": "17:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー69号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー69号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー69号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:20",
+      "arr_time": "18:03",
+      "t2_arr_time": "18:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー71号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー71号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー71号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:40",
+      "arr_time": "18:29",
+      "t2_arr_time": "18:27",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー73号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー73号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー73号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "18:20",
+      "arr_time": "19:04",
+      "t2_arr_time": "19:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー75号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー75号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー75号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:00",
+      "arr_time": "19:45",
+      "t2_arr_time": "19:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー77号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー77号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー77号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:39",
+      "arr_time": "20:33",
+      "t2_arr_time": "20:30",
+      "total_min": 54,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー179号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー179号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー179号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "20:20",
+      "arr_time": "21:13",
+      "t2_arr_time": "21:10",
+      "total_min": 53,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー181号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー181号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "night",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー181号 成田空港行"
+      ]
+    }
+  ],
+  "weekend": [
+    {
+      "dep_time": "05:40",
+      "arr_time": "06:26",
+      "t2_arr_time": "06:22",
+      "total_min": 46,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー1号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー1号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー1号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:00",
+      "arr_time": "06:45",
+      "t2_arr_time": "06:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー3号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー3号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー3号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:20",
+      "arr_time": "07:07",
+      "t2_arr_time": "07:03",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー5号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー5号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー5号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:40",
+      "arr_time": "07:25",
+      "t2_arr_time": "07:22",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー7号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー7号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー7号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:00",
+      "arr_time": "07:47",
+      "t2_arr_time": "07:42",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー9号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー9号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー9号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:15",
+      "arr_time": "08:04",
+      "t2_arr_time": "08:01",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー111号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー111号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー111号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:40",
+      "arr_time": "08:24",
+      "t2_arr_time": "08:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー13号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー13号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー13号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:00",
+      "arr_time": "08:44",
+      "t2_arr_time": "08:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー15号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー15号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー15号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:19",
+      "arr_time": "09:09",
+      "t2_arr_time": "09:05",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー117号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー117号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー117号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:40",
+      "arr_time": "09:25",
+      "t2_arr_time": "09:21",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー19号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー19号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー19号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:00",
+      "arr_time": "09:44",
+      "t2_arr_time": "09:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー21号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー21号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー21号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:15",
+      "arr_time": "10:04",
+      "t2_arr_time": "10:01",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー123号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー123号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー123号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:40",
+      "arr_time": "10:24",
+      "t2_arr_time": "10:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー25号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー25号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー25号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:55",
+      "arr_time": "10:44",
+      "t2_arr_time": "10:41",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー127号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー127号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー127号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:20",
+      "arr_time": "11:03",
+      "t2_arr_time": "11:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー29号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー29号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー29号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:35",
+      "arr_time": "11:24",
+      "t2_arr_time": "11:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー131号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー131号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー131号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:00",
+      "arr_time": "11:44",
+      "t2_arr_time": "11:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー33号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー33号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー33号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:20",
+      "arr_time": "12:03",
+      "t2_arr_time": "12:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー35号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー35号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー35号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:37",
+      "arr_time": "12:25",
+      "t2_arr_time": "12:22",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー137号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー137号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー137号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:00",
+      "arr_time": "12:44",
+      "t2_arr_time": "12:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー39号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー39号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー39号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:20",
+      "arr_time": "13:03",
+      "t2_arr_time": "13:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー41号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー41号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー41号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:35",
+      "arr_time": "13:24",
+      "t2_arr_time": "13:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー143号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー143号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー143号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:00",
+      "arr_time": "13:44",
+      "t2_arr_time": "13:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー45号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー45号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー45号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:20",
+      "arr_time": "14:03",
+      "t2_arr_time": "14:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー47号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー47号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー47号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:35",
+      "arr_time": "14:24",
+      "t2_arr_time": "14:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー149号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー149号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー149号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:00",
+      "arr_time": "14:43",
+      "t2_arr_time": "14:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー51号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー51号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー51号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:20",
+      "arr_time": "15:03",
+      "t2_arr_time": "15:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー53号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー53号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー53号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:35",
+      "arr_time": "15:23",
+      "t2_arr_time": "15:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー155号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー155号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー155号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:00",
+      "arr_time": "15:44",
+      "t2_arr_time": "15:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー57号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー57号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー57号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:20",
+      "arr_time": "16:04",
+      "t2_arr_time": "16:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー59号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー59号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー59号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:35",
+      "arr_time": "16:23",
+      "t2_arr_time": "16:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー161号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー161号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー161号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:00",
+      "arr_time": "16:44",
+      "t2_arr_time": "16:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー63号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー63号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー63号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:20",
+      "arr_time": "17:03",
+      "t2_arr_time": "17:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー65号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー65号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー65号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:40",
+      "arr_time": "17:23",
+      "t2_arr_time": "17:21",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー67号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー67号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー67号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:00",
+      "arr_time": "17:44",
+      "t2_arr_time": "17:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー69号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー69号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー69号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:20",
+      "arr_time": "18:03",
+      "t2_arr_time": "18:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー71号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー71号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー71号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:40",
+      "arr_time": "18:24",
+      "t2_arr_time": "18:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー73号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー73号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー73号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "18:20",
+      "arr_time": "19:04",
+      "t2_arr_time": "19:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー75号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー75号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー75号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:00",
+      "arr_time": "19:44",
+      "t2_arr_time": "19:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー77号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー77号 直通（日暮里のみ停車（最速直行）・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー77号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:37",
+      "arr_time": "20:25",
+      "t2_arr_time": "20:23",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー179号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー179号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー179号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "20:17",
+      "arr_time": "21:05",
+      "t2_arr_time": "21:02",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "is_skyliner": true,
+      "train_type": "スカイライナー",
+      "liner_name": "スカイライナー181号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "スカイライナー181号 直通（日暮里・青砥・新鎌ケ谷停車・全席指定）",
+      "time_band": "night",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "成田スカイアクセス線 スカイライナー181号 成田空港行"
+      ]
+    }
+  ]
+}
