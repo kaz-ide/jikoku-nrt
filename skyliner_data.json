@@ -1,0 +1,1974 @@
+{
+  "weekday": [
+    {
+      "dep_time": "05:40",
+      "arr_time": "06:24",
+      "t2_arr_time": "06:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー1号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー1号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー1号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:00",
+      "arr_time": "06:44",
+      "t2_arr_time": "06:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー3号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー3号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー3号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:20",
+      "arr_time": "07:08",
+      "t2_arr_time": "07:05",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー5号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー5号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー5号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:40",
+      "arr_time": "07:27",
+      "t2_arr_time": "07:23",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー7号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー7号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー7号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:00",
+      "arr_time": "07:49",
+      "t2_arr_time": "07:43",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー9号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー9号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー9号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:20",
+      "arr_time": "08:12",
+      "t2_arr_time": "08:07",
+      "total_min": 52,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー111号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー111号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー111号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:40",
+      "arr_time": "08:27",
+      "t2_arr_time": "08:24",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー13号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー13号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー13号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:00",
+      "arr_time": "08:44",
+      "t2_arr_time": "08:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー15号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー15号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー15号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:17",
+      "arr_time": "09:07",
+      "t2_arr_time": "09:04",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー117号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー117号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー117号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:40",
+      "arr_time": "09:25",
+      "t2_arr_time": "09:21",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー19号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー19号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー19号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:00",
+      "arr_time": "09:44",
+      "t2_arr_time": "09:42",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー21号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー21号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー21号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:17",
+      "arr_time": "10:08",
+      "t2_arr_time": "10:05",
+      "total_min": 51,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー123号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー123号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー123号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:40",
+      "arr_time": "10:23",
+      "t2_arr_time": "10:21",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー25号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー25号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー25号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:00",
+      "arr_time": "10:57",
+      "t2_arr_time": "10:53",
+      "total_min": 57,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー127号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー127号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー127号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:20",
+      "arr_time": "11:03",
+      "t2_arr_time": "11:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー29号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー29号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー29号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:35",
+      "arr_time": "11:23",
+      "t2_arr_time": "11:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー131号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー131号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー131号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:00",
+      "arr_time": "11:43",
+      "t2_arr_time": "11:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー33号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー33号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー33号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:20",
+      "arr_time": "12:03",
+      "t2_arr_time": "12:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー35号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー35号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー35号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:35",
+      "arr_time": "12:24",
+      "t2_arr_time": "12:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー137号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー137号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー137号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:00",
+      "arr_time": "12:43",
+      "t2_arr_time": "12:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー39号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー39号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー39号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:20",
+      "arr_time": "13:03",
+      "t2_arr_time": "13:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー41号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー41号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー41号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:35",
+      "arr_time": "13:24",
+      "t2_arr_time": "13:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー143号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー143号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー143号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:00",
+      "arr_time": "13:43",
+      "t2_arr_time": "13:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー45号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー45号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー45号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:20",
+      "arr_time": "14:03",
+      "t2_arr_time": "14:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー47号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー47号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー47号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:35",
+      "arr_time": "14:23",
+      "t2_arr_time": "14:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー149号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー149号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー149号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:00",
+      "arr_time": "14:43",
+      "t2_arr_time": "14:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー51号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー51号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー51号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:20",
+      "arr_time": "15:03",
+      "t2_arr_time": "15:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー53号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー53号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー53号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:35",
+      "arr_time": "15:23",
+      "t2_arr_time": "15:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー155号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー155号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー155号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:00",
+      "arr_time": "15:45",
+      "t2_arr_time": "15:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー57号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー57号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー57号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:20",
+      "arr_time": "16:03",
+      "t2_arr_time": "16:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー59号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー59号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー59号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:37",
+      "arr_time": "16:27",
+      "t2_arr_time": "16:25",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー161号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー161号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー161号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:00",
+      "arr_time": "16:44",
+      "t2_arr_time": "16:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー63号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー63号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー63号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:20",
+      "arr_time": "17:04",
+      "t2_arr_time": "17:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー65号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー65号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー65号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:40",
+      "arr_time": "17:25",
+      "t2_arr_time": "17:22",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー67号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー67号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー67号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:00",
+      "arr_time": "17:45",
+      "t2_arr_time": "17:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー69号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー69号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー69号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:20",
+      "arr_time": "18:03",
+      "t2_arr_time": "18:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー71号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー71号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー71号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:40",
+      "arr_time": "18:29",
+      "t2_arr_time": "18:27",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー73号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー73号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー73号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "18:20",
+      "arr_time": "19:04",
+      "t2_arr_time": "19:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー75号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー75号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー75号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:00",
+      "arr_time": "19:45",
+      "t2_arr_time": "19:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー77号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー77号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー77号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:39",
+      "arr_time": "20:33",
+      "t2_arr_time": "20:30",
+      "total_min": 54,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー179号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー179号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー179号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "20:20",
+      "arr_time": "21:13",
+      "t2_arr_time": "21:10",
+      "total_min": 53,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー181号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー181号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "night",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー181号 成田空港行"
+      ]
+    }
+  ],
+  "weekend": [
+    {
+      "dep_time": "05:40",
+      "arr_time": "06:26",
+      "t2_arr_time": "06:22",
+      "total_min": 46,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー1号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー1号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー1号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:00",
+      "arr_time": "06:45",
+      "t2_arr_time": "06:42",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー3号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー3号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー3号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:20",
+      "arr_time": "07:07",
+      "t2_arr_time": "07:03",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー5号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー5号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー5号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "06:40",
+      "arr_time": "07:25",
+      "t2_arr_time": "07:22",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー7号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー7号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー7号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:00",
+      "arr_time": "07:47",
+      "t2_arr_time": "07:42",
+      "total_min": 47,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー9号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー9号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー9号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:15",
+      "arr_time": "08:04",
+      "t2_arr_time": "08:01",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー111号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー111号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー111号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "07:40",
+      "arr_time": "08:24",
+      "t2_arr_time": "08:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー13号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー13号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー13号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:00",
+      "arr_time": "08:44",
+      "t2_arr_time": "08:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー15号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー15号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー15号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:19",
+      "arr_time": "09:09",
+      "t2_arr_time": "09:05",
+      "total_min": 50,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー117号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー117号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー117号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "08:40",
+      "arr_time": "09:25",
+      "t2_arr_time": "09:21",
+      "total_min": 45,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー19号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー19号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー19号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:00",
+      "arr_time": "09:44",
+      "t2_arr_time": "09:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー21号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー21号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー21号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:15",
+      "arr_time": "10:04",
+      "t2_arr_time": "10:01",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー123号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー123号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー123号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:40",
+      "arr_time": "10:24",
+      "t2_arr_time": "10:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー25号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー25号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー25号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "09:55",
+      "arr_time": "10:44",
+      "t2_arr_time": "10:41",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー127号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー127号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "morning",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー127号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:20",
+      "arr_time": "11:03",
+      "t2_arr_time": "11:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー29号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー29号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー29号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "10:35",
+      "arr_time": "11:24",
+      "t2_arr_time": "11:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー131号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー131号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー131号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:00",
+      "arr_time": "11:44",
+      "t2_arr_time": "11:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー33号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー33号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー33号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:20",
+      "arr_time": "12:03",
+      "t2_arr_time": "12:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー35号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー35号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー35号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "11:37",
+      "arr_time": "12:25",
+      "t2_arr_time": "12:22",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー137号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー137号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー137号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:00",
+      "arr_time": "12:44",
+      "t2_arr_time": "12:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー39号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー39号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー39号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:20",
+      "arr_time": "13:03",
+      "t2_arr_time": "13:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー41号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー41号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー41号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "12:35",
+      "arr_time": "13:24",
+      "t2_arr_time": "13:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー143号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー143号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー143号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:00",
+      "arr_time": "13:44",
+      "t2_arr_time": "13:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー45号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー45号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー45号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:20",
+      "arr_time": "14:03",
+      "t2_arr_time": "14:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー47号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー47号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー47号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "13:35",
+      "arr_time": "14:24",
+      "t2_arr_time": "14:21",
+      "total_min": 49,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー149号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー149号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー149号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:00",
+      "arr_time": "14:43",
+      "t2_arr_time": "14:41",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー51号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー51号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー51号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:20",
+      "arr_time": "15:03",
+      "t2_arr_time": "15:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー53号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー53号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー53号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "14:35",
+      "arr_time": "15:23",
+      "t2_arr_time": "15:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー155号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー155号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー155号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:00",
+      "arr_time": "15:44",
+      "t2_arr_time": "15:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー57号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー57号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー57号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:20",
+      "arr_time": "16:04",
+      "t2_arr_time": "16:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー59号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー59号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー59号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "15:35",
+      "arr_time": "16:23",
+      "t2_arr_time": "16:21",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー161号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー161号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "day",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー161号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:00",
+      "arr_time": "16:44",
+      "t2_arr_time": "16:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー63号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー63号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー63号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:20",
+      "arr_time": "17:03",
+      "t2_arr_time": "17:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー65号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー65号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー65号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "16:40",
+      "arr_time": "17:23",
+      "t2_arr_time": "17:21",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー67号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー67号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー67号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:00",
+      "arr_time": "17:44",
+      "t2_arr_time": "17:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー69号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー69号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー69号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:20",
+      "arr_time": "18:03",
+      "t2_arr_time": "18:01",
+      "total_min": 43,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー71号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー71号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー71号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "17:40",
+      "arr_time": "18:24",
+      "t2_arr_time": "18:21",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー73号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー73号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー73号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "18:20",
+      "arr_time": "19:04",
+      "t2_arr_time": "19:01",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー75号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー75号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー75号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:00",
+      "arr_time": "19:44",
+      "t2_arr_time": "19:41",
+      "total_min": 44,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー77号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー77号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー77号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "19:37",
+      "arr_time": "20:25",
+      "t2_arr_time": "20:23",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー179号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー179号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "evening",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー179号 成田空港行"
+      ]
+    },
+    {
+      "dep_time": "20:17",
+      "arr_time": "21:05",
+      "t2_arr_time": "21:02",
+      "total_min": 48,
+      "via": "スカイアクセス線経由",
+      "is_direct": true,
+      "train_type": "スカイライナー",
+      "liner_name": "特急 スカイライナー181号",
+      "transfer_station": "直通",
+      "connect_train": "直通",
+      "transfer_desc": "特急 スカイライナー181号（全席指定）で空港第2ビル・成田空港へ直通最速",
+      "time_band": "night",
+      "fare_ic": 2572,
+      "fare_ticket": 2580,
+      "is_liner": true,
+      "stations": [
+        "京成上野",
+        "成田空港(鉄道)"
+      ],
+      "transports": [
+        "京成成田スカイアクセス線 特急 スカイライナー181号 成田空港行"
+      ]
+    }
+  ]
+}
